@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.so
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.DS_Store
+*.npz
+*.parquet
+data/*.csv
+data/*.json
+*.log
+.ipynb_checkpoints/
